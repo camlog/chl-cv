@@ -1,0 +1,409 @@
+{
+  "name": "Cameron H. Logie",
+
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "1.0.0"
+  },
+
+  "info": {
+    "label": "Devops Consultant",
+    "class": "DevOps",
+    "brief": "Seasoned IT veteran with over 20 years experience in many types of business. Arrived at DevOps from the Ops side.",
+    "image": "camlog.png"
+  },
+
+  "disposition": {
+    "travel": "10",
+    "authorization": "UK Citizen",
+    "commitment": ["contract"],
+    "remote": "True",
+    "relocation": {
+      "willing": "True",
+      "destinations": ["London"]
+    }
+  },
+
+  "contact": {
+    "phone": "+44 7729 594860",
+    "email": "hireme@userze.ro"
+  },
+
+  "location": {
+    "address": "27 Strathblane Gardens, Glasgow. G13 1BL",
+    "city": "Glasgow",
+    "region": "",
+    "code": "G13 1BL",
+    "country": "UK"
+  },
+
+  "social": [
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "camlog",
+      "url": "https://github.com/camlog"
+    },
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "user": "camcubed",
+      "url": "https://twitter.com/camcubed"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Nearcycle",
+      "category": "side project",
+      "role": "creator",
+      "start": "2013-01-01",
+      "end": "2013-04-01",
+      "description": "A geo-location based, person to person, free-giving system qith social integration.",
+      "summary": "This project was really a learning exercise to bolster my existing Python knowledge and it taught me a lot about Django and its many 3rd party modules. For example, the site used some fairly standard technologies to ensure future scalability such as Haystack / Elasticsearch, AWS S3 for image storage, Celery message queues for periodic tasks and machine learning spam checking via CRM114. The project is currently shelved for the future.",
+      "keywords": ["Python", "Django", "Saltstack"]
+    }
+  ],
+
+  "employment": {
+    "history": [
+      {
+        "employer": "Genomics England",
+        "url": "https://www.genomicsengland.co.uk",
+        "position": "Devops Consultant",
+        "summary": "Genomics England are responsible for the execution of the 100,000 Genomes Project, a major undertaking by the NHS.",
+        "start": "2016-06-01",
+        "end": "2016-11-25",
+        "location": "Remote / Barbican, London",
+        "keywords": ["Saltstack","VMWare","AWS","Python","Jenkins","Packaging"],
+        "highlights": [
+          "Contributed to the existing Saltstack config management code",
+          "Automated provisioning of Genome ingest pipeline",
+          "Python packaging",
+          "Supporting the Bioinformatics team and their codebases",
+          "Infrastructure rationalisation",
+          "Troubleshooting major cloud platform issues"
+        ]
+      },
+
+      {
+        "employer": "Kaplan International",
+        "url": "https://kaplan.com/",
+        "position": "Devops Consultant",
+        "summary": "Kaplan International are a global English-language teaching company providing learning for individuals, students and businesses.",
+        "start": "2015-06-01",
+        "end": "2016-05-31",
+        "location": "Remote / West Kensington, London",
+        "keywords": ["Puppet","AWS","Cloudformation","Python","CI","Change Management","WebOps"],
+        "highlights": [
+          "Contributed to the existing Puppet config management code",
+          "Worked on Python Cloudformation codebase",
+          "Got embedded into the Drupal team for new website deployment",
+          "Cost saving and Infrastructure rationalisation"
+        ]
+      },
+
+      {
+        "employer": "TeamRock",
+        "url": "http://teamrock.com",
+        "position": "Devops Consultant",
+        "summary": "TeamRock are a global rock and metal brand with a number of business facets including streaming radio stations, print magazines and a major rock music news site.",
+        "start": "2015-02-02",
+        "end": "2015-05-29",
+        "location": "Remote / Blantyre, Glasgow",
+        "keywords": ["Saltstack","AWS","Docker","Cloudformation","Troposphere","CI","Bamboo"],
+        "highlights": [
+          "Described current ad-hoc infrastructure in code using Troposphere",
+          "Re-work the Saltstack configuration management codebase",
+          "Improved Docker build/deployment pipeline with leaner images"
+        ]
+      },
+
+      {
+        "employer": "Path Intelligence",
+        "position": "Devops Consultant",
+        "summary": "Path Intelligence were a retail data collection and analytics company that tracked people using WiFi, GSM and Bluetooth signals from mobile phones.",
+        "start": "2013-10-17",
+        "end": "2015-01-30",
+        "location": "Remote / Portsmouth",
+        "keywords": ["Saltstack","Monitoring","Bespoke Hardware","Puppet","GCE","Networking"],
+        "highlights": [
+          "Built PXE hardware provisioning pipeline for field receivers",
+          "Initial work on migration of Puppet to Saltstack",
+          "Provided level 3 support for complex remote networking issues",
+          "Migration of site servers to Google Cloud",
+          "Worked on next generation receivers with R&D team"
+        ]
+      },
+
+      {
+        "employer": "iBahn",
+        "position": "Global Operations Centre Contractor",
+        "summary": "iBahn were a provider of networking and IPTV services to major hotel groups such as Hilton, Marriot and Four Seasons.",
+        "start": "2013-04-02",
+        "end": "2013-08-16",
+        "location": "Stirling",
+        "keywords": ["Puppet","Cisco","IPTV","Video"],
+        "highlights": [
+          "Worked with a complex infrastructure of approx 2500 servers using puppet",
+          "Provided level 3 support for techincal issues",
+          "Gained experience of deploying Wireless APs on a huge scale",
+          "Massively reduced the number of outstanding IPTV tickets"
+        ]
+      },
+
+      {
+        "employer": "Passionsfabrikken ApS t/a Luuux.com",
+        "position": "DevOps Engineer",
+        "summary": "Luuux.com was a fashion and beauty content farm where user generated content was rewards with virtual credits.",
+        "start": "2011-05-27",
+        "end": "2012-12-31",
+        "location": "Remote / Copenhagen",
+        "keywords": ["AWS","Drupal","WebOps"],
+        "highlights": [
+          "Provided all WebOps support on their AWS stack",
+          "Gained a lot of experience with Drupal 6 and 7",
+          "Advised on SEO and social media techiniques to drive traffic"
+        ]
+      },
+
+      {
+        "employer": "Ortso.com",
+        "position": "Lead DevOps Engineer / IT Manager",
+        "summary": "Ortso.com was a reverse auction site allowing users to solicit best prices from retailers.",
+        "start": "2009-06-01",
+        "end": "2011-05-27",
+        "location": "Edinburgh",
+        "keywords": ["Puppet","Provisioning","Bare metal"],
+        "highlights": [
+          "Was employee #1",
+          "Started with complete green field",
+          "Designed and built all internal IT infrastructure",
+          "Built hosting environment",
+          "Worked closely with Latvian development house",
+          "Implemented change control and monitoring",
+          "Budget management and value driving",
+          "Interviewing and staff management",
+          "Learned about SEO, KPI measurement, Pentesting",
+          "Placed in charge of BC and DR"
+        ]
+      }
+
+    ]
+
+  },
+
+  "education": {
+    "history": [
+      {
+        "institution": "Strathclyde University",
+        "title": "BSc Computer and Electronic Systems",
+        "start": "1994-10",
+        "end": "1996-06",
+        "summary": "Studied for two years before leaving to join family multimedia business"
+      },
+
+      {
+        "institution": "Belmont House School",
+        "title": "Primary and Secondary School",
+        "url": "http://www.belmontschool.co.uk/",
+        "start": "1984-10",
+        "end": "1993-06",
+        "highlights": [
+          "Standard Grades - Maths (1), Physics (1) ,Chemistry (1), English (2), Geography (2), French (3)",
+          "Scotvec Modules - Intro to Computer Studies, Intro to Programming, Programming Project",
+          "Higher Grades - Mathematics (A), Physics (A), Chemistry (B), English (C)"
+        ]
+
+      }
+    ]
+
+  },
+
+  "skills": {
+    "sets": [
+      {
+        "name": "Unix",
+        "level": "Master",
+        "skills": [
+          "Centos",
+          "Gentoo",
+          "Ubuntu",
+          "Debian",
+          "PFSense"
+        ]
+      },
+      {
+        "name": "V12n",
+        "level": "advanced",
+        "skills": [
+          "AWS",
+          "GCE",
+          "Linode",
+          "DigitalOcean",
+          "Rackspace",
+          "VMWare",
+          "KVM",
+          "Xen"        ]
+      },
+      {
+        "name": "DevOps",
+        "level": "advanced",
+        "skills": [
+          "Saltstack",
+          "Puppet",
+          "Docker",
+          "Packer",
+          "Cloudformation"
+        ]
+      },
+      {
+        "name": "Languages",
+        "level": "advanced",
+        "skills": [
+          "Python",
+          "Bash"
+        ]
+      },
+      {
+        "name": "Monitoring",
+        "level": "advanced",
+        "skills": [
+          "Nagios",
+          "Cacti",
+          "Sensu",
+          "Logstash",
+          "Kibana"
+        ]
+      },
+      {
+        "name": "IP",
+        "level": "Master",
+        "skills": [
+          "IPTables",
+          "VLANs",
+          "Routing",
+          "HA",
+          "VPN"
+        ]
+      },
+      {
+        "name": "Project",
+        "level": "advanced",
+        "skills": [
+          "Agile",
+          "JIRA",
+          "GitHub",
+          "Kanban"
+        ]
+      },
+      {
+        "name": "Database",
+        "level": "intermediate",
+        "skills": [
+          "MySQL",
+          "MariaDB",
+          "PostgreSQL",
+          "MongoDB",
+          "RDS"
+        ]
+      },
+      {
+        "name": "Others",
+        "level": "beginner",
+        "skills": [
+          "PHP",
+          "Ruby",
+          "C",
+          "C++"
+        ]
+      }
+    ],
+
+    "list": [
+    ]
+  },
+
+  "reading": [
+    {
+      "title": "Zerohedge",
+      "flavor": "blog",
+      "url": "http://www.zerohedge.com",
+      "summary": "Alternative financial news and analysis."
+    }
+  ],
+
+  "references": [
+    {
+      "name": "Anand Kumria",
+      "role": "Head of Infrastructure",
+      "flavor": "professional",
+      "private": false,
+      "contact": [
+        {
+          "label": "Work email",
+          "flavor": "email",
+          "value": "akumria@genomicsengland.co.uk"
+        }
+      ]
+    },
+    {
+      "name": "Dimitris Perdikou",
+      "role": "Infrastructure Lead",
+      "flavor": "professional",
+      "private": false,
+      "contact": [
+        {
+          "label": "Work email",
+          "flavor": "email",
+          "value": "dimitris.perdikou@kaplan.com"
+        }
+      ]
+    },
+    {
+      "name": "Mick Coll",
+      "role": "Head of Development",
+      "flavor": "professional",
+      "private": false,
+      "contact": [
+        {
+          "label": "Work email",
+          "flavor": "email",
+          "value": "mick@teamrock.com"
+        }
+      ]
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    },
+    {
+      "language": "French",
+      "level": "Basic"
+    }
+  ],
+
+  "interests": [
+    {
+      "name": "Krav Maga (tactical self-defence)",
+      "start": "2013-05",
+      "summary": "P3 graded practitioner. Have passed seminars on operational security and home-invasion."
+    },
+    {
+      "name": "Finance",
+      "summary": "Interested in global financial developments, economic theory, cryptocurrency and commodities."
+    },
+    {
+      "name": "Music",
+      "summary": "Metal, electronic noise and synthwave. Recently started learning to play the drums."
+    },
+    {
+      "name": "Podcasts",
+      "summary": "Mainly US comedians but also history and lifestyle"
+    }
+  ]
+
+}
