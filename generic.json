@@ -10,7 +10,7 @@
     "label": "Devops Consultant",
     "class": "DevOps",
     "brief": "Seasoned IT veteran with over 20 years experience in many types of business. Arrived at DevOps from the Ops side.",
-    "image": "camlog.png"
+    "image": "me.jpg"
   },
 
   "disposition": {
@@ -326,6 +326,12 @@
 
   "reading": [
     {
+      "title": "Writing effective use cases",
+      "flavor": "book",
+      "url": "https://www.amazon.co.uk/Writing-Effective-Crystal-Software-Development/dp/0201702258",
+      "summary": "Exploring how to better convey user stories."
+    },
+    {
       "title": "Zerohedge",
       "flavor": "blog",
       "url": "http://www.zerohedge.com",
@@ -390,7 +396,7 @@
     {
       "name": "Krav Maga (tactical self-defence)",
       "start": "2013-05",
-      "summary": "P3 graded practitioner. Have passed seminars on operational security and home-invasion."
+      "summary": "P3 graded practitioner. Have attended seminars on operational security, home invasion and anti-terrorism."
     },
     {
       "name": "Finance",
