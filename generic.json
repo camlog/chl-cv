@@ -62,6 +62,15 @@
       "description": "A geo-location based, person to person, free-giving system qith social integration.",
       "summary": "This project was really a learning exercise to bolster my existing Python knowledge and it taught me a lot about Django and its many 3rd party modules. For example, the site used some fairly standard technologies to ensure future scalability such as Haystack / Elasticsearch, AWS S3 for image storage, Celery message queues for periodic tasks and machine learning spam checking via CRM114. The project is currently shelved for the future.",
       "keywords": ["Python", "Django", "Saltstack"]
+    },
+    {
+      "title": "HomeAssistant",
+      "category": "side project",
+      "role": "user",
+      "start": "2017-10-01",
+      "description": "Tinkering with home automation",
+      "summary": "This is a small project to implement various IoT sensors in my house using Zigbee RF comms.",
+      "keywords": ["Python", "HomeAssistant", "IoT"]
     }
   ],
 
