@@ -77,6 +77,23 @@
   "employment": {
     "history": [
       {
+        "employer": "EE",
+        "url": "https://www.ee.co.uk",
+        "position": "Senior Devops Contractor",
+        "summary": "EE are a major, UK based mobile phone services provider.",
+        "start": "2017-02-08",
+        "location": "Remote / St Pauls, London",
+        "keywords": ["Puppet","Nginx","AWS","Python","Jenkins","Packaging"],
+        "highlights": [
+          "Contributed to the existing Python and Puppet config management codebase",
+          "Infrastructure migration from existing setup",
+          "Troubleshooting database performance issues",
+          "Web caching and security improvements",
+          "Implemented Splunk for centralised logging"
+        ]
+      },
+
+      {
         "employer": "Genomics England",
         "url": "https://www.genomicsengland.co.uk",
         "position": "Devops Consultant",
