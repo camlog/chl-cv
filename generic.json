@@ -64,6 +64,15 @@
       "keywords": ["Python", "Django", "Saltstack"]
     },
     {
+      "title": "Kubernetes",
+      "category": "side project",
+      "role": "user",
+      "start": "2017-09-10",
+      "description": "Managing my own Kubernetes cluster",
+      "summary": "Another learning project to run in-house containers and learn about using Kubernetes.",
+      "keywords": ["Kubernetes", "Containers"]
+    },
+    {
       "title": "HomeAssistant",
       "category": "side project",
       "role": "user",
